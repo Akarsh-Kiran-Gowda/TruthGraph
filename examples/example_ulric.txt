@@ -1,0 +1,27 @@
+Number of people: 3
+Name 1: Ulric
+Name 2: Xenia
+Name 3: Tina
+
+
+Number of statements: 2
+Statement 1:
+Speaker: Ulric
+Type: 1
+Target: Xenia
+
+
+Statement 2:
+Speaker: Ulric
+Type: 3
+How many people involved? 3
+Person 1: Tina
+Person 2: Ulric
+Person 3: Xenia
+
+Expected Output:
+
+Solution 1:
+Ulric: Truth
+Xenia: Truth
+Tina: Liar
