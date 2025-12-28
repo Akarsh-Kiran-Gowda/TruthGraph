@@ -1,0 +1,40 @@
+Number of people: 4
+Name 1: Olivia
+Name 2: Yates
+Name 3: Alice
+Name 4: Iris
+
+
+Number of statements: 3
+Statement 1:
+Speaker: Iris
+Type: 3
+How many people involved? 2
+Person 1: Alice
+Person 2: Yates
+
+
+Statement 2:
+Speaker: Iris
+Type: 4
+How many people involved? 3
+Person 1: Olivia
+Person 2: Alice
+Person 3: Yates
+
+
+Statement 3:
+Speaker: Olivia
+Type: 3
+How many people involved? 3
+Person 1: Yates
+Person 2: Alice
+Person 3: Iris
+
+Expected Output:
+
+Solution 1:
+Olivia: Truth
+Yates: Truth
+Alice: Truth
+Iris: Liar
